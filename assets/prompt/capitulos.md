@@ -1,1 +1,1 @@
-
+Faça um texto para ebook , com foco em Hardware, listando os principais componentes e explicando sua importância e função {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga uma curiosidade , sempre deixe um título sugestivo por tópico
