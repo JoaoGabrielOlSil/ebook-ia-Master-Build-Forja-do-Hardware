@@ -1,1 +1,1 @@
-
+Crie um título de um ebook sobre o tema de Componentes, o ebook é do nicho de hardware e o subnicho é de componentes, o título deve ser épico e curto. o Titulo deve ter alguma referência geek do mundo dos games. Me liste 5 variações de títulos
